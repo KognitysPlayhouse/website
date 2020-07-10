@@ -17,7 +17,7 @@
 <link rel='stylesheet' id='elementor-frontend-css'  href='http://159.89.117.192/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=2.9.13' type='text/css' media='all' />
 <link rel='stylesheet' id='elementskit-css-widgetarea-control-editor-css'  href='http://159.89.117.192/wp-content/plugins/elementskit-lite/modules/controls/assets/css/widgetarea-editor.css?ver=1.0.0' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-global-css'  href='http://159.89.117.192/wp-content/uploads/elementor/css/global.css?ver=1594397703' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-post-39-css'  href='http://159.89.117.192/wp-content/uploads/elementor/css/post-39.css?ver=1594398438' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-39-css'  href='http://159.89.117.192/wp-content/uploads/elementor/css/post-39.css?ver=1594403644' type='text/css' media='all' />
 <link rel='stylesheet' id='hfe-widgets-style-css'  href='http://159.89.117.192/wp-content/plugins/header-footer-elementor/inc/widgets-css/frontend.css?ver=1.5.1' type='text/css' media='all' />
 <link rel='stylesheet' id='font-awesome-css'  href='http://159.89.117.192/wp-content/themes/oceanwp/assets/fonts/fontawesome/css/all.min.css?ver=5.11.2' type='text/css' media='all' />
 <link rel='stylesheet' id='simple-line-icons-css'  href='http://159.89.117.192/wp-content/themes/oceanwp/assets/css/third/simple-line-icons.min.css?ver=2.4.0' type='text/css' media='all' />
@@ -156,11 +156,11 @@
 				<div class="elementor-element elementor-element-a5a8961 elementor-invisible elementor-widget elementor-widget-premium-addon-fancy-text" data-id="a5a8961" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;none&quot;}" data-widget_type="premium-addon-fancy-text.default">
 				<div class="elementor-widget-container">
 			    
-        <div class="premium-fancy-text-wrapper typing" data-settings="{&quot;effect&quot;:&quot;typing&quot;,&quot;strings&quot;:[&quot;Hi there &quot;,&quot;Hello there &quot;,&quot;Hey there &quot;],&quot;typeSpeed&quot;:30,&quot;backSpeed&quot;:30,&quot;startDelay&quot;:500,&quot;backDelay&quot;:2000,&quot;showCursor&quot;:false,&quot;cursorChar&quot;:&quot;&quot;,&quot;loop&quot;:true}">
+        <div class="premium-fancy-text-wrapper typing" data-settings="{&quot;effect&quot;:&quot;typing&quot;,&quot;strings&quot;:[&quot;Hi there welcome to&quot;,&quot;Hello there welcome&quot;,&quot;Hey there welcome to&quot;],&quot;typeSpeed&quot;:30,&quot;backSpeed&quot;:30,&quot;startDelay&quot;:500,&quot;backDelay&quot;:2000,&quot;showCursor&quot;:false,&quot;cursorChar&quot;:&quot;&quot;,&quot;loop&quot;:true}">
             <span class="premium-prefix-text"><span ></span></span>
 
                     <span class="premium-fancy-text"></span>
-                <span class="premium-suffix-text"><span >  welcome to</span></span>
+                <span class="premium-suffix-text"><span > </span></span>
     </div>
     		</div>
 				</div>
