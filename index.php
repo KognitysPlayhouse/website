@@ -5,7 +5,7 @@
 	<meta charset="UTF-8">
 	<link rel="profile" href="https://gmpg.org/xfn/11">
 
-	<title>Kognity&#039;s Playhouse &#8211; Just another WordPress site</title>
+	<title>Kognity&#039;s Playhouse &#8211; A community you&#039;ll love</title>
 <meta name="viewport" content="width=device-width, initial-scale=1"><link rel='dns-prefetch' href='//s.w.org' />
 <link rel="alternate" type="application/rss+xml" title="Kognity&#039;s Playhouse &raquo; Feed" href="http://159.89.117.192/index.php/feed/" />
 <link rel="alternate" type="application/rss+xml" title="Kognity&#039;s Playhouse &raquo; Comments Feed" href="http://159.89.117.192/index.php/comments/feed/" />
@@ -394,7 +394,7 @@ var PremiumSettings = {"ajaxurl":"http:\/\/159.89.117.192\/wp-admin\/admin-ajax.
 <script type='text/javascript' src='http://159.89.117.192/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6'></script>
 <script type='text/javascript' src='http://159.89.117.192/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=2.9.13'></script>
 <script type='text/javascript'>
-var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","downloadImage":"Download image"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"version":"2.9.13","urls":{"assets":"http:\/\/159.89.117.192\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"general":{"elementor_global_image_lightbox":"yes","elementor_lightbox_enable_counter":"yes","elementor_lightbox_enable_fullscreen":"yes","elementor_lightbox_enable_zoom":"yes","elementor_lightbox_enable_share":"yes","elementor_lightbox_title_src":"title","elementor_lightbox_description_src":"description"},"editorPreferences":[]},"post":{"id":39,"title":"Kognity%27s%20Playhouse%20%E2%80%93%20Just%20another%20WordPress%20site","excerpt":"","featuredImage":false}};
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","downloadImage":"Download image"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"version":"2.9.13","urls":{"assets":"http:\/\/159.89.117.192\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"general":{"elementor_global_image_lightbox":"yes","elementor_lightbox_enable_counter":"yes","elementor_lightbox_enable_fullscreen":"yes","elementor_lightbox_enable_zoom":"yes","elementor_lightbox_enable_share":"yes","elementor_lightbox_title_src":"title","elementor_lightbox_description_src":"description"},"editorPreferences":[]},"post":{"id":39,"title":"Kognity%27s%20Playhouse%20%E2%80%93%20A%20community%20you%27ll%20love","excerpt":"","featuredImage":false}};
 </script>
 <script type='text/javascript' src='http://159.89.117.192/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=2.9.13'></script>
 <script type='text/javascript' src='http://159.89.117.192/wp-content/plugins/elementskit-lite/widgets/init/assets/js/elementor.js?ver=1.5.7'></script>
